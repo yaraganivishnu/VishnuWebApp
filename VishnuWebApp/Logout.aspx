@@ -10,7 +10,7 @@
     <form id="form1" runat="server">
     <div>
     
-        this is logout page.</div>
+        this is logout page. change</div>
     </form>
 </body>
 </html>
